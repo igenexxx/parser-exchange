@@ -1,0 +1,21 @@
+{
+  "name": "kurs-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "google-charts": "^0.5.1",
+    "mongoose": "^4.11.8",
+    "needle": "^2.0.0",
+    "node-telegram-bot-api": "^0.28.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
